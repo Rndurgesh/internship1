@@ -4,7 +4,7 @@ import "./middle.css";
 const Middle = () => {
   return (
     <div className="m">
-      <div className="heading">Politics</div>
+      <div className="heading">Currrent</div>
       <div className="m-item">
         <div className="m-item-left">
           <img
